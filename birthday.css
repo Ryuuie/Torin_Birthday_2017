@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+div {
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.happy {
+    color: #ffff00;
+    background-color: #000000;
+}
+
+.birthday {
+    color: #66ff66;
+    background-color: #000000;
+}
+
+.torin {
+    color: #ff0033;
+    background-color: #000000;
+}
+
+div .pic {
+    height: 150vh;
+}
+
+.pic {
+    background-image: url('img/torinbday2017.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
